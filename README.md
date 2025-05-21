@@ -101,18 +101,7 @@ Please refer to the attached screenshots included in your submission on D2L or G
 
 ---
 
-### 📤 Submission Guide
 
-1. Push your project folder to a **public GitHub repository**
-2. Include:
-
-   * App.js
-   * README\_MessagesApp.txt
-   * package.json
-   * (Optional) assets/
-3. Submit the GitHub repo link to D2L
-
----
 
 ### 👨‍💻 Author
 
