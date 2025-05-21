@@ -116,7 +116,7 @@ Please refer to the attached screenshots included in your submission on D2L or G
 
 ### 👨‍💻 Author
 
-* **Student:** \[Your Name]
+* **Student:** \[Kathan Suthar]
 * **Course:** CS5450 Mobile Programming
 * **Instructor:** Dr. Sabah Mohammed
-* **Submission Date:** \[Add Date]
+* **Submission Date:** \[21 May]
