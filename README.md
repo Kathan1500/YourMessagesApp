@@ -94,7 +94,7 @@ npx expo start --localhost
 ### 📷 Screenshots
 
 Please refer to the attached screenshots included in your submission on D2L or GitHub for:
-![Screenshot][WhatsApp Image 2025-05-21 at 18 18 41_d843570f](https://github.com/user-attachments/assets/00eb6d31-dc56-49fc-bd15-8dfcd76b7d96)
+![Screenshot](https://github.com/user-attachments/assets/00eb6d31-dc56-49fc-bd15-8dfcd76b7d96)
 ![WhatsApp Image 2025-05-21 at 18 18 41_a34654c5](https://github.com/user-attachments/assets/e157c3ac-d4b6-4904-be61-6d3669af0f7b)
 ![WhatsApp Image 2025-05-21 at 18 18 41_d26ae0e5](https://github.com/user-attachments/assets/cf9ed843-9686-41b4-a630-8158c225c2b1)
 
