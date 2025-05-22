@@ -94,6 +94,7 @@ npx expo start --localhost
 ### 📷 Screenshots
 
 Please refer to the attached screenshots included in your submission on D2L or GitHub for:
+![WhatsApp Image 2025-05-21 at 18 18 41_d843570f](https://github.com/user-attachments/assets/00eb6d31-dc56-49fc-bd15-8dfcd76b7d96)
 
 * Home screen with categories
 * Message screen per directory
