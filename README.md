@@ -1,5 +1,5 @@
 **React Native Messages Directory App**
-*Exercise 2 – CS5450 Mobile Programming*
+**Exercise 2 – CS5450 Mobile Programming*
 
 ---
 
