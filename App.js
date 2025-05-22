@@ -313,5 +313,5 @@ const styles = StyleSheet.create({
     paddingVertical: 8,
   },
   cancelText: { color: '#888' },
-  saveText: { color: '#fff', fontWeight: 'bold' },
+  saveText: { color: '#4a90e2', fontWeight: 'bold' },
 });
